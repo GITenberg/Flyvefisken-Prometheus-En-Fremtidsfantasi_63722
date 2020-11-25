@@ -1,0 +1,28 @@
+_repo: Flyvefisken-Prometheus-En-Fremtidsfantasi_63722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bergsøe, Vilhelm
+    aliases:
+    - Bergsøe, Jørgen Vilhelm
+    - Bergsoe, Jorgen Vilhelm
+    birthdate: 1835
+    deathdate: 1911
+    gutenberg_agent_id: '5839'
+    url: http://www.gutenberg.org/2009/agents/5839
+    wikipedia: https://da.wikipedia.org/wiki/Vilhelm_Bergs%C3%B8e
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63722'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PT'
+- GITenberg
+title: Flyvefisken »Prometheus« (En Fremtidsfantasi)
+url: http://www.gutenberg.org/ebooks/63722
